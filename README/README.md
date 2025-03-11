@@ -56,10 +56,6 @@ Hệ thống bao gồm các khối chức năng chính:
 
 ---
 
-## RENDER 3D
-![PCB 3D](Render3d.png)
-
-
 ## Nguyên lý hoạt động
 
 - Khi **mực nước thấp (Low)**, hệ thống sẽ **tự động bật bơm nước**.
