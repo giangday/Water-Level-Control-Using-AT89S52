@@ -1,0 +1,326 @@
+Added Component: Designator=C1(Capacitor 1000uF 25V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Panasonic'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUTA1V101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(Capacitor 100uF 35V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP_30pF)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAP_30pF)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(Capacitor 10uF 50V)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(Diode 1N5822)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(1N4007)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED - 3mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F1(Fence 3pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F2(Fence 3pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F3(Fence 3pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F4(Fence 3pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F5(Fence 3pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F6(Fence 17PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F7(Fence 20PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F8(Fence 3pin_female)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(GCT_DCJ200-10-A-XX-K_REVA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global+Connector+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DCJ200-10-A-K1-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global+Connector+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(Inductor)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(2N2222)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Diotec Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(2N2222)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Diotec Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(2N2222)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Diotec Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(2N2222)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Diotec Semiconductor'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(Relay)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(RESISTOR 1W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(RESISTOR 10k_0.5W)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RP1(RES_10K_PACK_9PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW1(PUSH_SW 6PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW2(SW_4PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(LM2596T-5V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2596T-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(IC_SOKET_40PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+12V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-1
+Added Pin To Net: NetName=RESET Pin=C5-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=+5V Pin=D2-2
+Added Pin To Net: NetName=+5V Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=+12V Pin=F1-1
+Added Pin To Net: NetName=+12V Pin=F1-2
+Added Pin To Net: NetName=+12V Pin=F1-3
+Added Pin To Net: NetName=+5V Pin=F2-1
+Added Pin To Net: NetName=+5V Pin=F2-2
+Added Pin To Net: NetName=+5V Pin=F2-3
+Added Pin To Net: NetName=GND Pin=F3-1
+Added Pin To Net: NetName=GND Pin=F3-2
+Added Pin To Net: NetName=GND Pin=F3-3
+Added Pin To Net: NetName=relay+ Pin=F4-2
+Added Pin To Net: NetName=relay- Pin=F4-3
+Added Pin To Net: NetName=NetF5_1 Pin=F5-1
+Added Pin To Net: NetName=NetF5_2 Pin=F5-2
+Added Pin To Net: NetName=NetF5_3 Pin=F5-3
+Added Pin To Net: NetName=P10 Pin=F6-1
+Added Pin To Net: NetName=P11 Pin=F6-2
+Added Pin To Net: NetName=P12 Pin=F6-3
+Added Pin To Net: NetName=P13 Pin=F6-4
+Added Pin To Net: NetName=P14 Pin=F6-5
+Added Pin To Net: NetName=P15 Pin=F6-6
+Added Pin To Net: NetName=P16 Pin=F6-7
+Added Pin To Net: NetName=P17 Pin=F6-8
+Added Pin To Net: NetName=RESET Pin=F6-9
+Added Pin To Net: NetName=P30 Pin=F6-10
+Added Pin To Net: NetName=P31 Pin=F6-11
+Added Pin To Net: NetName=P32 Pin=F6-12
+Added Pin To Net: NetName=P33 Pin=F6-13
+Added Pin To Net: NetName=P34 Pin=F6-14
+Added Pin To Net: NetName=P35 Pin=F6-15
+Added Pin To Net: NetName=P36 Pin=F6-16
+Added Pin To Net: NetName=P37 Pin=F6-17
+Added Pin To Net: NetName=+5V Pin=F7-1
+Added Pin To Net: NetName=P00 Pin=F7-2
+Added Pin To Net: NetName=P01 Pin=F7-3
+Added Pin To Net: NetName=P02 Pin=F7-4
+Added Pin To Net: NetName=P03 Pin=F7-5
+Added Pin To Net: NetName=P04 Pin=F7-6
+Added Pin To Net: NetName=P05 Pin=F7-7
+Added Pin To Net: NetName=P06 Pin=F7-8
+Added Pin To Net: NetName=P07 Pin=F7-9
+Added Pin To Net: NetName=+5V Pin=F7-10
+Added Pin To Net: NetName=ALE Pin=F7-11
+Added Pin To Net: NetName=PSEN Pin=F7-12
+Added Pin To Net: NetName=P27 Pin=F7-13
+Added Pin To Net: NetName=P26 Pin=F7-14
+Added Pin To Net: NetName=P25 Pin=F7-15
+Added Pin To Net: NetName=P24 Pin=F7-16
+Added Pin To Net: NetName=P23 Pin=F7-17
+Added Pin To Net: NetName=P22 Pin=F7-18
+Added Pin To Net: NetName=P21 Pin=F7-19
+Added Pin To Net: NetName=P20 Pin=F7-20
+Added Pin To Net: NetName=NetC3_2 Pin=F8-1
+Added Pin To Net: NetName=NetC4_1 Pin=F8-3
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=+5V Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=P12 Pin=Q1-3
+Added Pin To Net: NetName=+5V Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=P11 Pin=Q2-3
+Added Pin To Net: NetName=+5V Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=P10 Pin=Q3-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetD2_1 Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Pin To Net: NetName=relay+ Pin=R1-3
+Added Pin To Net: NetName=relay- Pin=R1-4
+Added Pin To Net: NetName=P13 Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=NetF5_3 Pin=R3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Pin To Net: NetName=NetF5_2 Pin=R4-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R4-2
+Added Pin To Net: NetName=NetF5_1 Pin=R5-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=P10 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=P11 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=P12 Pin=R8-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R9-1
+Added Pin To Net: NetName=P13 Pin=R9-2
+Added Pin To Net: NetName=NetD3_2 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=RESET Pin=R11-2
+Added Pin To Net: NetName=+5V Pin=RP1-1
+Added Pin To Net: NetName=P00 Pin=RP1-2
+Added Pin To Net: NetName=P01 Pin=RP1-3
+Added Pin To Net: NetName=P02 Pin=RP1-4
+Added Pin To Net: NetName=P03 Pin=RP1-5
+Added Pin To Net: NetName=P04 Pin=RP1-6
+Added Pin To Net: NetName=P05 Pin=RP1-7
+Added Pin To Net: NetName=P06 Pin=RP1-8
+Added Pin To Net: NetName=P07 Pin=RP1-9
+Added Pin To Net: NetName=NetJ1_4 Pin=SW1-4
+Added Pin To Net: NetName=+12V Pin=SW1-5
+Added Pin To Net: NetName=+5V Pin=SW2-2
+Added Pin To Net: NetName=RESET Pin=SW2-4
+Added Pin To Net: NetName=+12V Pin=U1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=P10 Pin=U2-1
+Added Pin To Net: NetName=P11 Pin=U2-2
+Added Pin To Net: NetName=P12 Pin=U2-3
+Added Pin To Net: NetName=P13 Pin=U2-4
+Added Pin To Net: NetName=P14 Pin=U2-5
+Added Pin To Net: NetName=P15 Pin=U2-6
+Added Pin To Net: NetName=P16 Pin=U2-7
+Added Pin To Net: NetName=P17 Pin=U2-8
+Added Pin To Net: NetName=RESET Pin=U2-9
+Added Pin To Net: NetName=P30 Pin=U2-10
+Added Pin To Net: NetName=P31 Pin=U2-11
+Added Pin To Net: NetName=P32 Pin=U2-12
+Added Pin To Net: NetName=P33 Pin=U2-13
+Added Pin To Net: NetName=P34 Pin=U2-14
+Added Pin To Net: NetName=P35 Pin=U2-15
+Added Pin To Net: NetName=P36 Pin=U2-16
+Added Pin To Net: NetName=P37 Pin=U2-17
+Added Pin To Net: NetName=NetC3_2 Pin=U2-18
+Added Pin To Net: NetName=NetC4_1 Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=P20 Pin=U2-21
+Added Pin To Net: NetName=P21 Pin=U2-22
+Added Pin To Net: NetName=P22 Pin=U2-23
+Added Pin To Net: NetName=P23 Pin=U2-24
+Added Pin To Net: NetName=P24 Pin=U2-25
+Added Pin To Net: NetName=P25 Pin=U2-26
+Added Pin To Net: NetName=P26 Pin=U2-27
+Added Pin To Net: NetName=P27 Pin=U2-28
+Added Pin To Net: NetName=PSEN Pin=U2-29
+Added Pin To Net: NetName=ALE Pin=U2-30
+Added Pin To Net: NetName=+5V Pin=U2-31
+Added Pin To Net: NetName=P07 Pin=U2-32
+Added Pin To Net: NetName=P06 Pin=U2-33
+Added Pin To Net: NetName=P05 Pin=U2-34
+Added Pin To Net: NetName=P04 Pin=U2-35
+Added Pin To Net: NetName=P03 Pin=U2-36
+Added Pin To Net: NetName=P02 Pin=U2-37
+Added Pin To Net: NetName=P01 Pin=U2-38
+Added Pin To Net: NetName=P00 Pin=U2-39
+Added Pin To Net: NetName=+5V Pin=U2-40
+Added Member To Class: ClassName=water_level_v3 Member=Component C1 1000uF 25V
+Added Member To Class: ClassName=water_level_v3 Member=Component C2 100uF
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component C3 30pf
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component C4 30pf
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component C5 Capacitor 10uF
+Added Member To Class: ClassName=water_level_v3 Member=Component D1 1N5822
+Added Member To Class: ClassName=water_level_v3 Member=Component D2 1N4007
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component D3 Red
+Added Member To Class: ClassName=water_level_v3 Member=Component F1 +12V_DC
+Added Member To Class: ClassName=water_level_v3 Member=Component F2 +5V_DC
+Added Member To Class: ClassName=water_level_v3 Member=Component F3 GND_
+Added Member To Class: ClassName=water_level_v3 Member=Component F4 Fence 3 pin
+Added Member To Class: ClassName=water_level_v3 Member=Component F5 Pin_water
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component F6 Fence 17 PIN
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component F7 Fence 20 pin
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component F8 Fence 3 pin
+Added Member To Class: ClassName=water_level_v3 Member=Component J1 DCJ200-10-A-XX-K_REVA
+Added Member To Class: ClassName=water_level_v3 Member=Component L1 100uH
+Added Member To Class: ClassName=water_level_v3 Member=Component Q1 2N2222A
+Added Member To Class: ClassName=water_level_v3 Member=Component Q2 2N2222A
+Added Member To Class: ClassName=water_level_v3 Member=Component Q3 2N2222A
+Added Member To Class: ClassName=water_level_v3 Member=Component Q4 2N2222A
+Added Member To Class: ClassName=water_level_v3 Member=Component R1 Relay
+Added Member To Class: ClassName=water_level_v3 Member=Component R2 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R3 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R4 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R5 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R6 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R7 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R8 1k
+Added Member To Class: ClassName=water_level_v3 Member=Component R9 1k
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component R10 1k
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component R11 10k
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component RP1 8x10kOhm
+Added Member To Class: ClassName=water_level_v3 Member=Component SW1 Push_sw 8x8mm 6pin
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component SW2 Sw_4pin
+Added Member To Class: ClassName=water_level_v3 Member=Component U1 LM2576T-5V
+Added Member To Class: ClassName=Mcu_at89s52 Member=Component U2 Ic_socket_40pin_2.54mm
+Added Room: Name=Mcu_at89s52
+Added Room: Name=water_level_v3

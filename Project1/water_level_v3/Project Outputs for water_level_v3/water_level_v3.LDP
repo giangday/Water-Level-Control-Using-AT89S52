@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\file_alitium\water_level_v3\water_level_v3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=water_level_v3-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=water_level_v3-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=water_level_v3-rectholes.txt|DrillLayers=gtl,gbl
