@@ -2,11 +2,6 @@
 
 ## Giới thiệu
 
-Nước là một nguồn tài nguyên quan trọng, đóng vai trò thiết yếu trong cuộc sống hàng ngày và nhiều lĩnh vực sản xuất. Tuy nhiên, việc quản lý và sử dụng nước, đặc biệt ở vùng nông thôn, vẫn còn nhiều hạn chế. Hệ thống truyền thống sử dụng bồn nước đặt trên cao để cung cấp nước bằng trọng lực có nhiều bất tiện như:
-
-- Không thể kiểm tra mực nước hiện tại.
-- Việc bơm nước phải thực hiện thủ công, gây lãng phí thời gian và công sức.
-
 Dự án **"Water Level Control Using AT89S52"** được thiết kế nhằm giải quyết các vấn đề trên bằng cách cung cấp một giải pháp tự động kiểm soát mức nước thông qua vi điều khiển **AT89S52**. Hệ thống bao gồm hai chức năng chính:
 
 1. **Kiểm tra mực nước trong bể chứa.**  
